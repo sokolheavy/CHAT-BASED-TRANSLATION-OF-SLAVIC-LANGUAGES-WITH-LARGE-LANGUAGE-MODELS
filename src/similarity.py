@@ -1,5 +1,3 @@
-# similarity.py
-
 from sentence_transformers import util
 from sacrebleu.metrics import CHRF
 import pyter
